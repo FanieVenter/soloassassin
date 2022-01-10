@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://fanieventer.github.io/soloassassin/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
