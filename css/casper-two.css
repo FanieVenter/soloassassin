@@ -7,11 +7,15 @@
     color: #9eabb3;
     text-align: center;
 }
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 
 .pagination a {
     color: #9eabb3;
     transition: all .2s ease;
 }
+
 
 .page-number {
     display: inline-block;
