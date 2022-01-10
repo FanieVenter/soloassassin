@@ -1,25 +1,13 @@
-<<<<<<< HEAD
-baseurl         = "fanieventer.github.io/soloassassin/"
-=======
 baseurl         = "/"
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
-<<<<<<< HEAD
-canonifyurls    = true
-=======
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
 
 [params]
   title       = "Hugo Casper Two"
   subtitle    = "Port of Casper 2.x for Hugo"
-<<<<<<< HEAD
-  copyright   = "© 2018"
-=======
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
 
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
@@ -28,27 +16,20 @@ canonifyurls    = true
   customCSS = []
   RSSLink = ""
 
-<<<<<<< HEAD
-  
-=======
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
 
   logo = "hugo-logo.png"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-<<<<<<< HEAD
-  showSupport = true
-
   author = "EM"
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Bandung, ID"
   authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
-=======
   authorDescription = "Describe yourself.."
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -56,11 +37,7 @@ canonifyurls    = true
   singleViewStyle = "casper"
 
 [permalinks]
-<<<<<<< HEAD
-  post = "/post/:slug/"
-=======
   post = "/:slug/"
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
 
 [[menu.main]]
   name = "Home"
@@ -73,21 +50,11 @@ canonifyurls    = true
   weight = 100
 
 [[menu.main]]
-<<<<<<< HEAD
-  name = "Categories"
-  url = "/categories/"
-=======
   name = "Food"
   url = "/categories/food/"
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
   weight = 99
 
 [[menu.main]]
   name = "External"
   url = "https://google.com/"
   weight = 95
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 125b88abab9750506d24b4735337c33123579dd5
