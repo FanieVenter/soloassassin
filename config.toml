@@ -1,4 +1,4 @@
-baseurl         = "/soloassassin"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -34,7 +34,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = ""
+  url = "/"
   weight = 200
 
 [[menu.main]]
