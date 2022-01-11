@@ -14,7 +14,7 @@ canonifyurls    = true
   cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
-  googleAnalytics = "G-V6NDZXJQ5S"
+  googleAnalytics = "3141010548"
   customCSS = [
 ]
   RSSLink = ""
